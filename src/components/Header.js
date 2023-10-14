@@ -7,7 +7,7 @@ const Header = () => {
   return (
     <header>
 
-      <h1>Jeevan BA</h1>
+      <h1>Dukkipati Lokesh Naga Manikanta </h1>
       <p>Student at Vellore Institute of Technology</p>
     </header>
   );
